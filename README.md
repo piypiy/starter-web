@@ -2,12 +2,10 @@
 
 This repository is for showing how Git and GitHub work
 
-##Intro
-:wq
-Bi
-Dii
-D
+## Introduction
 
 ## Purpose
 
 Sample website with plenty of files for demos
+
+## Deployment
